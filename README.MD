@@ -99,4 +99,4 @@
 <h2 align="center"><a id="arrays"><i>1: array</i></a></h2>
 <h3>easy</h3>
 
--  <a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1">1: missing number in array.</a>
+-  1: &nbsp; <a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1">missing number in array.</a>
