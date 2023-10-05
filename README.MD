@@ -1,8 +1,7 @@
 # GfG
 
-<p>In this repository you will find solutions to GfG problems that are categorized same as on the practice arena of GfG.</p>
+<The>In this repository you will find solutions to GfG problems that are categorized same as on the practice arena of GfG. The subsections are divided in topics and further divided by the level of problems in that topic.</p>
 
-<p>The subsections are divided in topics and further divided by the level of problems in that topic.</p>
 <pre>Eg: arrays -> easy -> {question name}</pre>
 
 <h2 align="center"> Topics Covered </h2>
@@ -100,5 +99,4 @@
 <h2 align="center"><a id="arrays"><i>1: array</i></a></h2>
 <h3>easy</h3>
 
-- <a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1">1: missing number in array.</a>
-
+-  <a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1">1: missing number in array.</a>
