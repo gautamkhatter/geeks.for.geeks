@@ -26,11 +26,15 @@
 
 <h2><a id="arrays">Array</a></h2>
 
-<h3>easy</h3>
+<details>
+   <summary><strong>Easy</strong></summary>
+   <br>
+   <li>Question 1: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/missing-number-in-array.js">Missing number in array.</a></li>
+   <li>Question 2: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/subarray-with-given-sum.js">Sub-array with a given sum</a></li>
+   <li>Question 2: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/sort-array-of-0-1-2.js">Sort array of 0s, 1s & 2</a></li>
 
--  Question 1: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/missing-number-in-array.js">Missing number in array.</a>
+</details>
 
-- Question 2: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/subarray-with-given-sum.js">Sub-array with a given sum</a>
 
-- Question 2: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/sort-array-of-0-1-2.js">Sort array of 0s, 1s & 2</a>
+
 
