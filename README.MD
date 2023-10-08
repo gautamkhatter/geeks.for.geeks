@@ -18,7 +18,7 @@
       <td align="center">
          <a href="#arrays">array</a>
       </td>
-      <td align="center">0</td>
+      <td align="center">3</td>
    </tr>
 </table>
 
@@ -28,4 +28,9 @@
 
 <h3>easy</h3>
 
--  Question 1: &nbsp; <a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1">Missing number in array.</a>
+-  Question 1: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/missing-number-in-array.js">Missing number in array.</a>
+
+- Question 2: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/subarray-with-given-sum.js">Sub-array with a given sum</a>
+
+- Question 2: &nbsp; <a href="https://github.com/gautamkhatter/gfg/blob/master/arrays/easy/sort-array-of-0-1-2.js">Sort array of 0s, 1s & 2</a>
+
